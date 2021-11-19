@@ -1,0 +1,16 @@
+/data/woodrowliu/workspace/cmake_demo/build/CMakeFiles/install/strip.dir
+/data/woodrowliu/workspace/cmake_demo/build/CMakeFiles/install/local.dir
+/data/woodrowliu/workspace/cmake_demo/build/CMakeFiles/install.dir
+/data/woodrowliu/workspace/cmake_demo/build/CMakeFiles/list_install_components.dir
+/data/woodrowliu/workspace/cmake_demo/build/CMakeFiles/rebuild_cache.dir
+/data/woodrowliu/workspace/cmake_demo/build/CMakeFiles/edit_cache.dir
+/data/woodrowliu/workspace/cmake_demo/build/CMakeFiles/test.dir
+/data/woodrowliu/workspace/cmake_demo/build/CMakeFiles/cmake_demo.dir
+/data/woodrowliu/workspace/cmake_demo/build/math/CMakeFiles/install/strip.dir
+/data/woodrowliu/workspace/cmake_demo/build/math/CMakeFiles/install/local.dir
+/data/woodrowliu/workspace/cmake_demo/build/math/CMakeFiles/install.dir
+/data/woodrowliu/workspace/cmake_demo/build/math/CMakeFiles/list_install_components.dir
+/data/woodrowliu/workspace/cmake_demo/build/math/CMakeFiles/rebuild_cache.dir
+/data/woodrowliu/workspace/cmake_demo/build/math/CMakeFiles/edit_cache.dir
+/data/woodrowliu/workspace/cmake_demo/build/math/CMakeFiles/test.dir
+/data/woodrowliu/workspace/cmake_demo/build/math/CMakeFiles/MathFunctions.dir

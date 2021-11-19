@@ -1,0 +1,4 @@
+/* #undef HAVE_POW */
+
+#define CMAKE_DEMO_VERSION_MAJOR 1
+#define CMAKE_DEMO_VERSION_MINOR 0

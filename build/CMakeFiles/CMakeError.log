@@ -1,0 +1,23 @@
+Determining if the function pow exists failed with the following output:
+Change Dir: /data/woodrowliu/workspace/cmake_demo/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/bin/gmake cmTC_c6198/fast && /bin/gmake  -f CMakeFiles/cmTC_c6198.dir/build.make CMakeFiles/cmTC_c6198.dir/build
+gmake[1]: Entering directory `/data/woodrowliu/workspace/cmake_demo/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c6198.dir/CheckFunctionExists.c.o
+/bin/cc   -DCHECK_FUNCTION_EXISTS=pow   -o CMakeFiles/cmTC_c6198.dir/CheckFunctionExists.c.o   -c /usr/share/cmake3/Modules/CheckFunctionExists.c
+<command-line>:0:23: warning: conflicting types for built-in function 'pow' [enabled by default]
+/usr/share/cmake3/Modules/CheckFunctionExists.c:7:3: note: in expansion of macro 'CHECK_FUNCTION_EXISTS'
+   CHECK_FUNCTION_EXISTS(void);
+   ^
+Linking C executable cmTC_c6198
+/usr/bin/cmake3 -E cmake_link_script CMakeFiles/cmTC_c6198.dir/link.txt --verbose=1
+/bin/cc  -DCHECK_FUNCTION_EXISTS=pow    -rdynamic CMakeFiles/cmTC_c6198.dir/CheckFunctionExists.c.o  -o cmTC_c6198 
+CMakeFiles/cmTC_c6198.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x10): undefined reference to `pow'
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [cmTC_c6198] Error 1
+gmake[1]: Leaving directory `/data/woodrowliu/workspace/cmake_demo/build/CMakeFiles/CMakeTmp'
+gmake: *** [cmTC_c6198/fast] Error 2
+
+
+
